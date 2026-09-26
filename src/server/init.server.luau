@@ -1,1 +1,1 @@
-print("Rojo is Working Kaya Talaga?!")
+print("Rojo is Working as 1-way Bridge?!")
