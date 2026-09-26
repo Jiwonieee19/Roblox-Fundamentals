@@ -15,3 +15,6 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+## Personal Note/TakeAway
+After trying Rojo, I realized that fully migrating the game would require rebuilding and maintaining the entire Roblox hierarchy and properties through the project configuration/json, which adds unnecessary complexity for what I’m currently trying to learn. So I’m stopping Rojo for now and will simply use the repository as storage/version control for my scripts on my next roblox projectsxc
